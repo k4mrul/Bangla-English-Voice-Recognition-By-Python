@@ -1,9 +1,7 @@
-# Bangla-English-Voice-Recognition-By-Python
+# Bangla English Voice Recognition By Python
 
 ## Required packages
-
 First, make sure that python (version 3) is installed . Then install the following packages.
-
 
 ```bash
 pip install gTTS
