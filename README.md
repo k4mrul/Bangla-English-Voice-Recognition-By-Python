@@ -15,7 +15,8 @@ pip install gpiozero pigpio
 ## Usage
 First you need to install the above packages. For light on and off functionality, you need to install pigpio package on your raspberry pi also. Then connect the LED in your desire pin and define the pin number in voice.py (line 30)
 
-
+## Video
+[![](http://img.youtube.com/vi/iWXzC8wmBQQ/0.jpg)](http://www.youtube.com/watch?v=iWXzC8wmBQQ "")
 
 ## Contribution
 You can do whatever you want with that program. 
